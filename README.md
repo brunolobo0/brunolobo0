@@ -44,13 +44,6 @@ Plataforma para conectar prestadores de serviços com clientes. Front-end em HTM
 - **Técnico:** Análise e Desenvolvimento de Sistemas (ETEC)
 - **Cursos:** Web Design e Front End (Origamid)
 
-## Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_GITHUB&show_icons=true&theme=dark&border_color=30363d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_GITHUB&layout=compact&theme=dark&border_color=30363d"/>
-</div>
-
 ---
 
 ## Vamos nos conectar?
