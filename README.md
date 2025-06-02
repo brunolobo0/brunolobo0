@@ -6,6 +6,12 @@
 
 Desenvolvedor front-end especializado em websites e landing pages. Trabalho principalmente com JavaScript, React e tenho experiência em desenvolvimento web e gestão de equipes.
 
+<div align="center">
+  
+[![🌐 Ver Portfólio Completo](https://img.shields.io/badge/🌐%20Ver%20Portfólio%20Completo-1e3a8a?style=for-the-badge&logo=safari&logoColor=white&labelColor=0a0e1a)](https://brunolobo0.github.io/personal-site/)
+
+</div>
+
 ## O que eu faço
 
 Atualmente trabalho na **140 Online**, onde além de desenvolver websites e landing pages, coordeno projetos e equipes. Meu dia a dia envolve desde personalização de sites em WordPress até desenvolvimento de sistemas mais complexos com .NET.
@@ -43,6 +49,13 @@ Plataforma para conectar prestadores de serviços com clientes. Front-end em HTM
 - **Graduação:** Análise e Desenvolvimento de Sistemas (PUC-MG)
 - **Técnico:** Análise e Desenvolvimento de Sistemas (ETEC)
 - **Cursos:** Web Design e Front End (Origamid)
+
+## Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME_GITHUB&show_icons=true&theme=dark&border_color=30363d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME_GITHUB&layout=compact&theme=dark&border_color=30363d"/>
+</div>
 
 ---
 
