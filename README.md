@@ -1,22 +1,26 @@
-# Bruno Lobo
+# Olá 👋, Eu sou Bruno Lobo
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:1a1f2e,100:0f1419&height=200&section=header&text=Bruno%20Lobo&fontSize=50&fontColor=00d4ff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Front%20End&descAlignY=55&descAlign=50&descSize=20"/>
-</div>
+<p align="center">
+Desenvolvedor Front-End desde 2021, com experiência em criação de sites institucionais, landing pages e e-commerces (Tray, Magento, WooCommerce). Forte domínio em HTML, CSS, JavaScript, SCSS e Bootstrap. Atuação em testes manuais, documentação técnica, análise de bugs e integrações via APIs REST. Suporte eventual no back-end para resolução de problemas e implementação de funcionalidades. Graduando em Análise e Desenvolvimento de Sistemas na PUC Minas, com curso focado em desenvolvimento full-stack. Experiência em C#, ASP.NET MVC, React Native, SQL Server e MongoDB.
+</p>
+<p align="center">
+📫 Contato: brunosvlobo@gmail.com
+</p>
+<br>
+<br>
 
-Desenvolvedor front-end especializado em websites e landing pages. Trabalho principalmente com JavaScript, React e tenho experiência em desenvolvimento web e gestão de equipes.
+* 🔭 SmartMoney - Gestão de finanças: <a href="https://github.com/brunolobo0/SmartMoney-PUC-Minas" target="_blank">Repositório</a>
+* 🔭 Focar Manutenções - Reparo de Maquinário Pesado: <a href="https://github.com/brunolobo0/Focar-Manutencoes-PUC-Minas" target="_blank">Repositório</a>
+* 🔭 ABE - Novas abordagens Epilepsia: <a href="https://github.com/brunolobo0/LP-ABE-Novas-abordagens-Epilepsia" target="_blank">Repositório</a>
 
-<div align="center">
-  
-[![🌐 Ver Portfólio Completo](https://img.shields.io/badge/🌐%20Ver%20Portfólio%20Completo-1e3a8a?style=for-the-badge&logo=safari&logoColor=white&labelColor=0a0e1a)](https://brunolobo0.github.io/personal-site/)
+## 🌐 Conecte-se comigo:
 
-</div>
+<p align="left">
+<a href="https://linkedin.com/in/bruno-sv-lobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruno-lobo" height="30" width="40" /></a>
+<a href="https://instagram.com/brinolobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunolobo0" height="30" width="40" /></a>
+</p>
 
-## O que eu faço
-
-Atualmente trabalho na **140 Online**, onde além de desenvolver websites e landing pages, coordeno projetos e equipes. Meu dia a dia envolve desde personalização de sites em WordPress até desenvolvimento de sistemas mais complexos com .NET.
-
-**Principais tecnologias que uso:**
+## 🛠️ Linguagens e Ferramentas:
 
 <div align="center">
 
@@ -33,34 +37,16 @@ Atualmente trabalho na **140 Online**, onde além de desenvolver websites e land
 
 </div>
 
-## Alguns projetos
+## 📊 Linguagens mais usadas:
 
-### Focar Manutenções (2025)
-Sistema de gestão para uma empresa de peças pesadas. O cliente precisava controlar fornecedores, clientes, orçamentos e estoque tudo em um lugar só. Desenvolvemos em ASP.NET Core MVC com MongoDB.
-
-### SmartMoney (2023)
-App de controle financeiro pessoal. A ideia era simples: criar carteiras, categorizar gastos e acompanhar histórico. Feito em C# com ASP.NET.
-
-### Concretize (2023)
-Plataforma para conectar prestadores de serviços com clientes. Front-end em HTML, CSS, JavaScript e Bootstrap.
-
-## Formação
-
-- **Graduação:** Análise e Desenvolvimento de Sistemas (PUC-MG)
-- **Técnico:** Análise e Desenvolvimento de Sistemas (ETEC)
-- **Cursos:** Web Design e Front End (Origamid)
-
-
-
-## Vamos nos conectar?
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](SEU_LINK_DO_PORTFOLIO)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bruno-lobo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/brinolobo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunosvlobo@gmail.com)
-
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brunolobo0&show_icons=true&locale=pt-br&layout=compact&hide_border=true&bg_color=0a0e1a&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff" alt="Top Languages" />
 </div>
 
-Estou sempre aberto para conversar sobre oportunidades e novos projetos.
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=brunolobo0&label=Visualizações%20do%20Perfil&color=00d4ff&style=flat" alt="Profile views" />
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f1419,50:1a1f2e,100:0a0e1a&height=120&section=footer)
