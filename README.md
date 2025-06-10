@@ -9,8 +9,8 @@ Desenvolvedor Front-End desde 2021, com experiência em criação de sites insti
 <br>
 <br>
 
-* 🔭 SmartMoney - Gestão de finanças: <a href="https://github.com/brunolobo0/SmartMoney-PUC-Minas" target="_blank">Repositório</a>
-* 🔭 Focar Manutenções - Reparo de Maquinário Pesado: <a href="https://github.com/brunolobo0/Focar-Manutencoes-PUC-Minas" target="_blank">Repositório</a>
+* 🔭 SmartMoney - Gestão de finanças: <a href="https://github.com/brunolobo0/SmartMoney-PUC-Minas" target=_blank>Repositório</a>
+* 🔭 Focar Manutenções - Reparo de Maquinário Pesado: <a href="https://github.com/brunolobo0/Focar-Manutencoes-PUC-Minas" target=_blank>Repositório</a>
 * 🔭 ABE - Novas abordagens Epilepsia: <a href="https://github.com/brunolobo0/LP-ABE-Novas-abordagens-Epilepsia" target="_blank">Repositório</a>
 
 ## 🌐 Conecte-se comigo:
@@ -48,5 +48,3 @@ Desenvolvedor Front-End desde 2021, com experiência em criação de sites insti
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=brunolobo0&label=Visualizações%20do%20Perfil&color=00d4ff&style=flat" alt="Profile views" />
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f1419,50:1a1f2e,100:0a0e1a&height=120&section=footer)
